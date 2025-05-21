@@ -8,7 +8,7 @@
 
 🎓 I’m a passionate M.Tech Scholar specializing in **Applied Data Science and Artificial Intelligence**.  
 🧠 Currently, I’m deeply involved in building an **AI-based Lie Detection System**, which combines video, audio, and text inputs using **multimodal deep learning** techniques.  
-📊 My goal is to design models that don’t just work — but explain their decisions clearly and ethically using techniques like **SHAP** and **LIME**.
+📊 My goal is to design models that don’t just work — but explain their decisions clearly and ethically.
 
 🛠️ My academic journey and project work revolve around solving real-world problems through:  
 - 📝 Natural Language Processing (NLP)  
@@ -24,12 +24,6 @@
 
 📬 **Email:** [varunbharadwaj4@gmail.com](mailto:varunbharadwaj4@gmail.com)  
 🔗 **LinkedIn:** [linkedin.com/in/varunbharadwaj21](https://www.linkedin.com/in/varunbharadwaj21)
-
----
-
-<p align="right">
-  <img src="https://raw.githubusercontent.com/varunbharadwaj21/varunbharadwaj21/main/assets/side-bannnerr.gif" width="250"/>
-</p>
 
 ---
 
