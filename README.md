@@ -1,10 +1,6 @@
 <p align="center">
-  <img src="assets/banner.gif" width="100%" alt="Header Banner"/>
+  <img src="assets/banner.gif" width="100" alt="Header Banner"/>
 </p>
-
-<table>
-  <tr>
-    <td width="60%">
 
 ### 👋 Hi, I'm Varun Bharadwaj
 
@@ -29,10 +25,10 @@
 
    </td>
    <td>
-     <img src="assets/side-bannnerr.gif" width="250"/>
+     <img src="assets/side-bannnerr.gif" width="500"/>
    </td>
   </tr>
-</table>
+
 
 ---
 
@@ -73,13 +69,3 @@
 
 </p>
 
----
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=varunbharadwaj21&show_icons=true&theme=tokyonight"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=varunbharadwaj21&theme=tokyonight"/>
-</p>
-
----
-
-> _"I believe in using data and algorithms to build solutions that contribute to society in meaningful ways."_
