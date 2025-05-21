@@ -27,7 +27,7 @@
 
 ---
 
-<p align="center">
+<p align="right">
   <img src="https://raw.githubusercontent.com/varunbharadwaj21/varunbharadwaj21/main/assets/side-bannnerr.gif" width="250"/>
 </p>
 
