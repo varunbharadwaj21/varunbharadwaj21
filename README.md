@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/varunbharadwaj4/varunbharadwaj4/main/assets/banner.gif" width="100%" alt="Header Banner"/>
+  <img src="assets/banner.gif" width="100%" alt="Header Banner"/>
 </p>
 
 <table>
