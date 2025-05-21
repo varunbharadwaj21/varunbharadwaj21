@@ -29,7 +29,7 @@
 
    </td>
    <td>
-     <img src="https://raw.githubusercontent.com/varunbharadwaj4/varunbharadwaj4/main/assets/side-bannnerr.gif" width="250"/>
+     <img src="assets/side-bannnerr.gif" width="250"/>
    </td>
   </tr>
 </table>
@@ -74,9 +74,6 @@
 </p>
 
 ---
-
-### 📈 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=varunbharadwaj21&show_icons=true&theme=tokyonight"/>
   <br/>
