@@ -49,6 +49,7 @@
 <img src="https://img.shields.io/badge/RNN-7B1FA2?style=for-the-badge&logo=pytorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/Deep%20Learning-0A192F?style=for-the-badge&logo=deepnote&logoColor=white"/>
 <img src="https://img.shields.io/badge/NLP-4A90E2?style=for-the-badge&logo=spacy&logoColor=white"/>
+<img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Seaborn-004B87?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
