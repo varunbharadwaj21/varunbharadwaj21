@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="assets/banner.gif" width="100" alt="Header Banner"/>
+  <img src="https://raw.githubusercontent.com/varunbharadwaj21/varunbharadwaj21/main/assets/banner.gif" width="100%" alt="Header Banner"/>
 </p>
+
+---
 
 ### 👋 Hi, I'm Varun Bharadwaj
 
@@ -23,12 +25,15 @@
 📬 **Email:** [varunbharadwaj4@gmail.com](mailto:varunbharadwaj4@gmail.com)  
 🔗 **LinkedIn:** [linkedin.com/in/varunbharadwaj21](https://www.linkedin.com/in/varunbharadwaj21)
 
-   </td>
-   <td>
-     <img src="assets/side-bannnerr.gif" width="500"/>
-   </td>
-  </tr>
+---
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/varunbharadwaj21/varunbharadwaj21/main/assets/side-bannnerr.gif" width="250"/>
+</p>
+
+---
+
+> _"I believe in using data and algorithms to build solutions that contribute to society in meaningful ways."_
 
 ---
 
