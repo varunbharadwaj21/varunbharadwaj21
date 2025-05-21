@@ -45,6 +45,10 @@
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 <img src="https://img.shields.io/badge/Neural%20Network-6A1B9A?style=for-the-badge&logo=keras&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bokeh-E4562E?style=for-the-badge&logo=bokeh&logoColor=white"/>
+<img src="https://img.shields.io/badge/RNN-7B1FA2?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-0A192F?style=for-the-badge&logo=deepnote&logoColor=white"/>
+<img src="https://img.shields.io/badge/NLP-4A90E2?style=for-the-badge&logo=spacy&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Seaborn-004B87?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
