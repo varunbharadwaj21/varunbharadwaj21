@@ -1,6 +1,5 @@
 <p align="center">
   <img src="assets/banner.gif" width="100%" height="350px" alt="Header Banner"/>
-  <img align="right" height=40 alt="varunbharadwaj21" src="https://komarev.com/ghpvc/?username=varunbharadwaj21&label=Profile%20views&color=0e75b6&style=flat"/>
 </p>
 
 ---
