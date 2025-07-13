@@ -7,7 +7,7 @@
 ### 👋 Hi, I'm Varun Bharadwaj
 
 🎓 M.Tech Scholar specializing in **Applied Data Science and Artificial Intelligence**.  
-🧠 Currently, I’m deeply involved in building an **AI-based Lie Detection System**, which combines video, audio, and text inputs using **multimodal deep learning** techniques.  
+🧠 Actively involved in implementing multimodal deep learning techniques across video, audio, and text data.  
 📊 My goal is to design models that don’t just work — but explain their decisions clearly and ethically.
 
 🛠️ My academic journey and project work revolve around solving real-world problems through:  
